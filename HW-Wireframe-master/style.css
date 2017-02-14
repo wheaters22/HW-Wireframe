@@ -1,1 +1,111 @@
-style.css
+
+
+body {
+	background-color: #777;
+}
+
+.header {
+	content: #ebebeb;
+	background-color: white;
+	border-style: hidden;
+	height: 60px;
+	width: 800px;
+	margin-left: 65px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+	padding-top: 25px;
+}
+
+.nav {
+	content: #ebebeb;
+	background-color: white;
+	border-style: hidden;
+	height: 60px;
+	width: 800px;
+	margin-left: 65px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+	padding-top: 25px;
+}
+
+
+.aside {
+	background-color: white;
+	content: #ebebeb;
+	border-style: hidden;
+	height: 170px;
+	width: 400px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+	float: right;
+}
+
+
+.container-section {
+	flex-direction: column;
+	border-style: hidden;
+	background-color: white;
+	height: 170px;
+	width: 400px;
+	margin-left: 65px;
+	margin-right: 10px
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+	content: #ebebeb;
+}
+
+.section {
+	border-style: hidden;
+	background-color: white;
+	height: 170px;
+	width: 400px;
+	margin-left: 65px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+	content: #ebebeb;
+}
+
+.article {
+	border-style: hidden;
+	height: 60px;
+	width: 250px;
+	content: #ebebeb;
+	font-size: 18px;
+	text-align: center;
+}
+
+.headers {
+	height: 60px;
+	width: 250px;
+	font-size: 18px;
+	content: #ebebeb;
+	border-style: hidden;
+	text-align: center;
+}
+
+.p {
+	border-style: hidden;
+	font-size: 18px;
+	content: #ebebeb;
+	text-align: center;
+	overflow: hidden;
+	clear; left;
+}
+
+.footer {
+	content: #ebebeb;
+	background-color: white;
+	border-style: hidden;
+	height: 60px;
+	width: 800px;
+	margin-left: 65px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+	margin-top: 20px
+	padding-top: 25px;
+}
