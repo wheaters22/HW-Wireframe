@@ -51,7 +51,7 @@ body {
 	height: 170px;
 	width: 400px;
 	margin-left: 65px;
-	margin-right: 10px
+	margin-right: 10px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	font-size: 18px;
 	content: #ebebeb;
@@ -90,6 +90,8 @@ body {
 .p {
 	border-style: hidden;
 	font-size: 18px;
+	height: 60px;
+	width: 250px;
 	content: #ebebeb;
 	text-align: center;
 	overflow: hidden;
